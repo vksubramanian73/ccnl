@@ -1,2 +1,2 @@
-# CCNL
-This repository contains all the code that I have written for my research in the CCNL lab.
+# Gridworld Task RL
+This repository contains the code used to train the agent to navigate a novel gridworld task using reinforcement learning techniques.
